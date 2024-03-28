@@ -61,5 +61,3 @@ Button(root, font = 'arial 13 bold', text = 'EXIT'  ,padx =5,bg ='seashell4' ,co
 root.mainloop()
 
 
-
-root.mainloop()
